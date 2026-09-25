@@ -1,0 +1,13 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+Build/
+Builds/
+MemoryCaptures/
+Packages/com.unity.collab-proxy/
+.vs/
+*.sln
+*.csproj
